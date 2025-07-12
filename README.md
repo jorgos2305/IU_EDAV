@@ -38,6 +38,6 @@ The objectives of this project are:
 
 ## Environment
 
-This project was developed using a Conda environment to ensure consisten dependencies across systems. To reproduce the environment, use the `environment.yml` file.
+This project was developed using a conda environment to ensure consistent dependencies across systems. To reproduce the environment, use `conda env create -f environment.yml`
 
-To activate the environment run `conda activate eda`.
+To activate the environment run `conda activate eda`
